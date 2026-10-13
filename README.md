@@ -1,6 +1,6 @@
 # TOPSIS-RAD-Experiments
 
-This github repository presents the supplementary python script for the article TOPSIS-RAD: Ranking According to Desires, submited to the Journal of Multi-criteria Decision Analysis, by Leonardo Fernandes Costa, Helder Gomes Costa, Diogo Lima, and Brunno Rodrigues.
+This github repository presents the supplementary python script for the article TOPSIS-RAD: Ranking According to Desires, submited to the Journal of Multi-Criteria Decision Analysis, by Leonardo Fernandes Costa, Helder Gomes Costa, Diogo Lima, and Brunno Rodrigues.
 
 The script reproduces the numerical result reported in the paper:
   - Examples A, B, C (Tables 3-16), including the insertion of A11;
