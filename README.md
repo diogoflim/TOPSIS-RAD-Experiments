@@ -11,8 +11,8 @@ The script reproduces the numerical result reported in the paper:
 Requirements: Python 3.9+, numpy, scipy (results in the paper obtained with Python 3.13, numpy 2.5, scipy 1.18).
 
 Usage:  
-        python topsis_rad_experiments.py            (everything; the simulation takes about one minute)
-        python topsis_rad_experiments.py --quick    (skips the simulation and the sensitivity analysis)
+  - python topsis_rad_experiments.py            (everything; the simulation takes about one minute)
+  - python topsis_rad_experiments.py --quick    (skips the simulation and the sensitivity analysis)
 
 All input data are defined in this file; no external file is needed. 
 
